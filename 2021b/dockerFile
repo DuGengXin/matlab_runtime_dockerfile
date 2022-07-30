@@ -17,7 +17,7 @@
 # @creation 2022-Jul-30
 #
 
-FROM ubuntu:ubuntu:22.04
+FROM ubuntu:22.04
 MAINTAINER GengXin Du <gengxin.du@qq.com>
 
 ENV DEBIAN_FRONTEND=noninteractive
